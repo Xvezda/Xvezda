@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<!--
 <details><summary>Does it work</summary>
-yes
+yes it works
 </details>
+-->
 
 <!--
 **Xvezda/Xvezda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
