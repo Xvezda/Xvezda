@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/35f3927e-70dc-445c-ac49-15bd984fb727.svg)](https://wakatime.com/@35f3927e-70dc-445c-ac49-15bd984fb727)
 
 <!--
 <details><summary>Does it work</summary>
